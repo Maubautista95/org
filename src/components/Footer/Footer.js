@@ -17,8 +17,8 @@ const Footer = () =>{
             <a href='https://www.aluracursos.com/'>
                 <img src='/img/instagram.png' alt='Instagram' />
             </a>
-        </div>
-
+         </div>
+     
     
     </footer>
 
