@@ -225,3 +225,4 @@ function App() {
 
 export default App;
 //A la izquierda en una prop, va el nombre de la prop, y a la derecha, va el nombre que recibe la constante dentro de nuestro documento actual.
+//Edition for Vercel.
