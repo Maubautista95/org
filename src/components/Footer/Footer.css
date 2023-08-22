@@ -1,0 +1,29 @@
+.Footer{
+    display: flex;
+    align-items: center;
+    height: 213px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    justify-content: space-between;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    
+}
+
+
+.Redes{
+
+    margin-left: 9vw;
+
+}
+
+.Redes img{
+    padding: 0 10px;
+    height: 25px;
+    width: 28px;
+    
+
+}
+

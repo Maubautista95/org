@@ -1,0 +1,30 @@
+.org-section{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.title{
+
+    color: #6278F7;
+    font-size: 40px;
+    font-weight: 400;
+    padding-bottom: 24px;
+    border-bottom: 4px solid #6278F7;
+
+}
+
+/*Si añadimos un border bottom y un padding bottom al mismo tiempo, se creará una linea
+debajo de nuestro texto que servirá a forma de subrayarlo y/o resaltarlo, a menor sea
+el padding, menor será la distancia entre el border bottom.*/
+
+.org-section img{
+
+    width: 100px;
+    position: absolute;
+    right: 17.5%;
+    cursor: pointer;
+
+}
